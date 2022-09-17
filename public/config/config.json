@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0D108637481AC6838cE2DaEc7787393Dc8B57fad",
+  "SCAN_LINK": "https://bscscan.com/address/0x0D108637481AC6838cE2DaEc7787393Dc8B57fad",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "TikToken Ticket",
+  "SYMBOL": "TTicket",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
